@@ -1,4 +1,4 @@
-nobbb
-=====
+noeventsposts
+===
 
-Nobbb Extension for Chrome
+coming soon
